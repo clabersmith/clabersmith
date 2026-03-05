@@ -24,6 +24,7 @@
     *   Orchestrated multi-year cloud migration efforts (GCP/AWS), ensuring zero-downtime cutovers for mission-critical web infrastructure and payment processing pipelines.
 
 ### 🧪 What I'm Working On
+- 👨‍💻 **[android-sleep-player](https://github.com/clabersmith/android-sleep-player)**: A Jetpack Compose demo exploring iPod Classic–style interaction, state machine navigation, and audio playback architecture.
 - 👨‍💻 **[jvm-daily-challenges](https://github.com/clabersmith/jvm-daily-challenges)**: A repository for mastering the nuances of Java, Kotlin, and Groovy using Gradle and the Spock testing framework.
 - 🤖 Exploring AI-assisted development workflows and modernizing CI/CD pipelines.
 
