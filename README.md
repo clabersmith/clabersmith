@@ -25,6 +25,7 @@
 
 ### 🧪 What I'm Working On
 - 👨‍💻 **[android-sleep-player](https://github.com/clabersmith/android-sleep-player)**: A Jetpack Compose demo exploring iPod Classic–style interaction, state machine navigation, and audio playback architecture.
+- 👨‍💻 **[podcast-feed-generator](https://github.com/clabersmith/podcast-feed-generator)**: A Node.js + Terraform demo supporting RSS feed aggregation, AWS Lambda deployment, and infrastructure-as-code architecture with a modular design for multi-cloud extensibility. Feed output consumed by android-sleep-player app.
 - 👨‍💻 **[jvm-daily-challenges](https://github.com/clabersmith/jvm-daily-challenges)**: A repository for mastering the nuances of Java, Kotlin, and Groovy using Gradle and the Spock testing framework.
 - 🤖 Exploring AI-assisted development workflows and modernizing CI/CD pipelines.
 
